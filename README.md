@@ -1,0 +1,5 @@
+- 🇫🇷 Hi, I’m Gauthier!
+- 🔍 I have a PhD in psychacoustics
+- 🤖 I ❤️ programming (which I do occasionnaly for my research)
+- 📚 I'm working on my C# skills
+- 📫 You can reach me at gauthier.berthomieu@gmail.com
