@@ -1,4 +1,4 @@
-- 🇫🇷 Hi, I’m Gauthier!
+- 🔊 Hi, I’m Gauthier!
 - 🔍 I have a PhD in psychacoustics
 - 🤖 I ❤️ programming (which I occasionnaly do for my research)
 - 📚 I'm working on my C# skills
